@@ -3,11 +3,11 @@
 title: Miao Miao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Annabella
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Miao 
+last_name: Miao
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: University of Texas at Dallas
     url: https://openai.com/
 
 # Social network links
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interest lies in program analysis and its applications in software reliability and security. I focus on enhancing the reliability and usability of static analysis tools by automatically detecting bugs and diagnosing their root causes. Additionally, I work on improving the fuzz testing evaluation process by developing benchmarks that integrate program characteristics, aiming for a more comprehensive and accurate assessment of fuzzing tools.
