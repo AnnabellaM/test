@@ -47,24 +47,24 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Program Analysis
+  - Fuzz Testing
+  - Static Analysis
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Doctor of Philosophy, Software Engineering 
     institution: University of Texas at Dallas
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-01
+    date_end: 2027-05-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Master of Science, Software Engineering
     institution: University of Texas at Dallas
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-09-01
+    date_end: 2023-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +72,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: Bachelor of Engineering, Computer Science and Technology
     institution: Xi'an University of Texas at Dallas
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-09-01
+    date_end: 2018-07-01
     summary: |
       GPA: 3.4/4.0
       
