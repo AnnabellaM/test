@@ -183,3 +183,7 @@ awards:
 
 ## About Me
 I am a third year Ph.D. student at The University of Texas at Dallas. My faculty supervisor is Dr. Shiyi Wei.
+
+My research interest lies in program analysis and fuzz testing, and their applications in software reliability and security. I focus on enhancing the reliability and usability of static analysis tools by automatically detecting bugs and diagnosing their root causes. I also work on improving the fuzz testing evaluation process by developing benchmarks that integrate program characteristics, aiming for a more comprehensive and accurate assessment of fuzzing tools.
+        
+Please reach out to collaborate 😃
