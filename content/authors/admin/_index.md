@@ -33,10 +33,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -182,5 +182,4 @@ awards:
 ---
 
 ## About Me
-
-My research interest lies in program analysis and its applications in software reliability and security. I focus on enhancing the reliability and usability of static analysis tools by automatically detecting bugs and diagnosing their root causes. Additionally, I work on improving the fuzz testing evaluation process by developing benchmarks that integrate program characteristics, aiming for a more comprehensive and accurate assessment of fuzzing tools.
+I am a third year Ph.D. student at The University of Texas at Dallas. My faculty supervisor is Dr. Shiyi Wei.

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-05-11
 type: landing
 
 design:
@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research interest lies in program analysis and its applications in software reliability and security. I focus on enhancing the reliability and usability of static analysis tools by automatically detecting bugs and diagnosing their root causes. Additionally, I work on improving the fuzz testing evaluation process by developing benchmarks that integrate program characteristics, aiming for a more comprehensive and accurate assessment of fuzzing tools.
+        My research interest lies in program analysis and fuzz testing, and their applications in software reliability and security. I focus on enhancing the reliability and usability of static analysis tools by automatically detecting bugs and diagnosing their root causes. I also work on improving the fuzz testing evaluation process by developing benchmarks that integrate program characteristics, aiming for a more comprehensive and accurate assessment of fuzzing tools.
         
         Please reach out to collaborate 😃
     design:
