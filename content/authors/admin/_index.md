@@ -46,30 +46,30 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-6650-6239
 
-# interests:
-#   - Program Analysis
-#   - Fuzz Testing
-#   - Static Analysis
+interests:
+  - Program Analysis
+  - Fuzz Testing
+  - Static Analysis
 
-# education:
-#   - area: Doctor of Philosophy, Software Engineering 
-#     institution: University of Texas at Dallas
-#     date_start: 2023-01-01
-#     date_end: 2027-05-31
-#     summary: |
-#       GPA: 3.97/4.0
-#   - area: Master of Science, Software Engineering
-#     institution: University of Texas at Dallas
-#     date_start: 2021-09-01
-#     date_end: 2023-12-31
-#     summary: |
-#       GPA: 3.97/4.0
-#   - area: Bachelor of Engineering, Computer Science and Technology
-#     institution: Xi'an University of Finance and Economics
-#     date_start: 2014-09-01
-#     date_end: 2018-07-01
-#     summary: |
-#       GPA: 3.59/4.0
+education:
+  - area: Doctor of Philosophy, Software Engineering 
+    institution: University of Texas at Dallas
+    date_start: 2023-01-01
+    date_end: 2027-05-31
+    summary: |
+      GPA: 3.97/4.0
+  - area: Master of Science, Software Engineering
+    institution: University of Texas at Dallas
+    date_start: 2021-09-01
+    date_end: 2023-12-31
+    summary: |
+      GPA: 3.97/4.0
+  - area: Bachelor of Engineering, Computer Science and Technology
+    institution: Xi'an University of Finance and Economics
+    date_start: 2014-09-01
+    date_end: 2018-07-01
+    summary: |
+      GPA: 3.59/4.0
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
