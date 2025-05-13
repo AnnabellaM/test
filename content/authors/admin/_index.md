@@ -46,77 +46,77 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0004-6650-6239
 
-interests:
-  - Program Analysis
-  - Fuzz Testing
-  - Static Analysis
+# interests:
+#   - Program Analysis
+#   - Fuzz Testing
+#   - Static Analysis
 
-education:
-  - area: Doctor of Philosophy, Software Engineering 
-    institution: University of Texas at Dallas
-    date_start: 2023-01-01
-    date_end: 2027-05-31
-    summary: |
-      GPA: 3.97/4.0
-  - area: Master of Science, Software Engineering
-    institution: University of Texas at Dallas
-    date_start: 2021-09-01
-    date_end: 2023-12-31
-    summary: |
-      GPA: 3.97/4.0
-  - area: Bachelor of Engineering, Computer Science and Technology
-    institution: Xi'an University of Finance and Economics
-    date_start: 2014-09-01
-    date_end: 2018-07-01
-    summary: |
-      GPA: 3.59/4.0
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# education:
+#   - area: Doctor of Philosophy, Software Engineering 
+#     institution: University of Texas at Dallas
+#     date_start: 2023-01-01
+#     date_end: 2027-05-31
+#     summary: |
+#       GPA: 3.97/4.0
+#   - area: Master of Science, Software Engineering
+#     institution: University of Texas at Dallas
+#     date_start: 2021-09-01
+#     date_end: 2023-12-31
+#     summary: |
+#       GPA: 3.97/4.0
+#   - area: Bachelor of Engineering, Computer Science and Technology
+#     institution: Xi'an University of Finance and Economics
+#     date_start: 2014-09-01
+#     date_end: 2018-07-01
+#     summary: |
+#       GPA: 3.59/4.0
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-awards:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# awards:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # awards:
 #   - title: Neural Networks and Deep Learning
