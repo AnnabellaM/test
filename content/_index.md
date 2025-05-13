@@ -96,7 +96,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
+    id: awards
     content:
       title: Awards
       subtitle: ''
@@ -123,9 +123,9 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [10, 0, 0, 0]
   - block: collection
-    id: news
+    id: teaching
     content:
       title: Teaching
       subtitle: ''
@@ -152,9 +152,9 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [10, 0, 0, 0]
   - block: collection
-    id: news
+    id: services
     content:
       title: Services
       subtitle: ''
@@ -181,7 +181,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [10, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
