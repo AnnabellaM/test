@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
       spacing:
-        padding: [-10, 0, 0, 0]
+        padding: [-50, 0, 0, 0]
         
     design:
       columns: '1'
