@@ -85,7 +85,7 @@ sections:
       view: date-title-summary
       # Reduce spacing
       spacing:
-        padding: [0, 10, 10, 10]
+        padding: [10, 10, 10, 10]
   - block: collection
     id: news
     content:
